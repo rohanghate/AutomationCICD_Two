@@ -90,7 +90,7 @@
                 </execution>                            
             </executions>
             <configuration>
-            <mainClass>JenkinsDemoTwo.CreatePayment.java</mainClass>
+            <mainClass>JenkinsDemoTwo.CreatePayment</mainClass>
             </configuration>
         </plugin>          
       </plugins>
